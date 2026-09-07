@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "url": "https://www.mediafire.com/file/91616w9tx95gd13/AIM_420_UPDATE.rar/file"
+  "url": "https://www.mediafire.com/file/xh2zmdabiht86r0/AIM_420.zip/file"
 }
